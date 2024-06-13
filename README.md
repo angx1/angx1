@@ -11,7 +11,7 @@
 
 ---
 
-### 	:thought_balloon:Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
