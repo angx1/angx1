@@ -5,7 +5,7 @@
 > Software Engineer Student at Universidad Politecnica de Madrid
 <br/>
 
-**I am passionate about entrepreneurship with a strong drive for success. With years of experience in full-stack software development, I specialize in front-end, back-end, microservices, blockchain, and DevOps. As an artist and DJ, I bring a creative perspective to challenges. Always seeking new opportunities to learn and innovate, I am motivated by continuous development.**
+**Passionate individual with a strong drive for success and growth. Currently a Computer Science student building innovative software solutions, particularly in the field of AI among others. I have experience developing applications leveraging blockchain technologies, data processing and transformation, and Large Language Models within Retrieval Augmented Generation architectures. I am a firm believer in continuous learning and development, constantly seeking opportunities to expand my skills and contribute to challenging projects.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-rodr%C3%ADguez-mor%C3%A1n-274868301/)
 
