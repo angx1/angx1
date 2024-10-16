@@ -2,12 +2,6 @@
 ## angel
 
 
-<br/>
-<br/>
-
-~~~
-"The goal isn't to live forever, is to create something that will" - Chuck Palahniuk
-~~~
 
 <br/>
 
